@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsightDemo", "InsightDemo\InsightDemo.csproj", "{F1A648B3-E836-44E2-B537-211514B324BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsightDemo.Tests", "InsightDemo.Tests\InsightDemo.Tests.csproj", "{48DF4DC7-0D16-4730-924C-89F1C0A8F026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsightDemoWPF", "InsightDemoWPF\InsightDemoWPF.csproj", "{9B25861B-37F3-4A5E-B601-DF57445BDCBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A648B3-E836-44E2-B537-211514B324BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A648B3-E836-44E2-B537-211514B324BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A648B3-E836-44E2-B537-211514B324BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A648B3-E836-44E2-B537-211514B324BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DF4DC7-0D16-4730-924C-89F1C0A8F026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DF4DC7-0D16-4730-924C-89F1C0A8F026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DF4DC7-0D16-4730-924C-89F1C0A8F026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DF4DC7-0D16-4730-924C-89F1C0A8F026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B25861B-37F3-4A5E-B601-DF57445BDCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B25861B-37F3-4A5E-B601-DF57445BDCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B25861B-37F3-4A5E-B601-DF57445BDCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B25861B-37F3-4A5E-B601-DF57445BDCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
